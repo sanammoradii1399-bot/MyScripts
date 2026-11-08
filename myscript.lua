@@ -1,1 +1,220 @@
-5259 v=z[E[-265345+265347]]x=s(-131531+133178)C=v(x,J)l=o[C]m=D[l]U,C=s(735532+-733627),s(559820+-558144)v=e[C]x=z[E[703961-703960]]J=z[E[53597522%297764]]w=J(U,T)U=23772463291282-(-511915)C=x[w]w=s(-434240-(-436352))o=v[C]C=z[E[893868-893867]]x=z[E[219939-219937]]J=x(w,U)v=C[J]l=o[v]V=m==l K,b=V and-93263+16761893 or 1272487410%12267556,V elseif K<9825900-470650 then x=s(624071-622287)b=z[V]K=b~=x K=K and 3922871-717959 or 1987525218%24110817 else x=-921945+921946 b=C==x K=b and 3567489-228777 or 5891814-(-858982)end else if 643812+8275384>K then b,K={},e[s(58914+-56798)]elseif 1040678314%23448102>K then U=s(94804+-92768)o=z[E[686769+-686768]]T,J,x=6724143251361-275302,31812654795361-(-77692),s(985091-982907)v=z[E[610618-610616]]C=v(x,J)l=o[C]m=D[l]C=s(-565155+566831)v=e[C]x=z[E[542213274%11065577]]J=z[E[1423849721%6110943]]w=J(U,T)C=x[w]w=s(14232-12629)o=v[C]U,K=-310795+13880984246090,923521+15745109 C=z[E[-129405+129406]]x=z[E[-695842-(-695844)]]J=x(w,U)v=C[J]l=o[v]V=m==l b=V else x=-923803+32005217211090 K=z[E[-75077-(-75078)]]D=z[E[658721+-658719]]l=z[E[-714015+714018]]C=s(615867-613868)o=z[E[445111-445107]]v=o(C,x)m=l[v]l=z[E[1235510987%12232782]]V={[m]=l}m=.15 b=K(D,V,m)K=z[E[-1006204-(-1006210)]]K=K and 7293774-(-521637)or 389732164%17205751 end end else if-880978+10670775>K then if K<1291505123%14086683 then D=R()C,V=5528842490393-(-997365),i[2314628604%9370966]z[D]=i[1005649-1005648]v=s(1012087+-1010210)m=z[E[280846931%3086230]]l=z[E[226829+-226827]]o=l(v,C)b=m[o]m=P(1040456+8123627,{E[585138+-585137],E[384101+-384099],D;E[511475753%10229515]})K=V[b]D=n(D)b,V=s(172103689%1496535),nil b=K[b]b=b(K,m)K,b=e[s(453147+-451060)],{}elseif K<9131586-(-600272)then U=T+U J,W=w>=U,not S J=W and J W=w<=U W=S and W J=W or J W=515844+14945217 K=J and W J=4406408-686467 K=K or J else T,F,y,d={},s(-1019665+1021441),{},s(906043-903914)S=R()j=R()z[S]=T T=R()U=nil W=G(-559519+4097215,{S;C,o,v})z[T]=W W,U={},846583+22126427766088 z[j]=W w,X=nil,s(2143561994%9832844)v=n(v)W=e[d]g,w=nil,s(644363224%8478441)q=z[j]J,p=nil,{[F]=q,[X]=g}d=W(y,p)z[V]=d W=f(1246223471%25164035,{j,S,x;C,o;T})S=n(S)T=n(T)C=n(C)x=n(x)m,T=nil,919934+12834711703002 j=n(j)z[l]=W o=n(o)o=s(225496-223766)m=e[o]C=z[V]o=s(-84828-(-86737))x=z[l]o=m[o]J=x(w,U)v=C[J]W,U=33503604914382-(-50211),s(-98919-(-100506))o=o(m,v)v=s(419793575%12720965)m=e[v]S=-209251+18063688864318 x=z[V]J=z[l]w=J(U,T)v=s(-797147+799056)v=m[v]C=x[w]v=v(m,C)j,C=22367117044053-(-933722),s(1000943+-999213)m=e[C]J=z[V]T=s(11512+-9855)w=z[l]U=w(T,S)C=s(-46101+48010)C=m[C]x=J[U]C=C(m,x)x,S=s(259699+-257969),s(384113823%5410030)m=R()z[m]=C C=e[x]w=z[V]U=z[l]x=s(519017793%11282954)T=U(S,W)J=w[T]W,x,S=19856+32235748158738,C[x],s(1567263114%8078667)x=x(C,J)w=z[V]U=z[l]T=U(S,W)J=w[T]C=o[J]J=R()W=s(800402+-798266)z[J]=C U=z[V]T=z[l]S=T(W,j)w=U[S]C=s(312018047%14857908)C=x[C]C=C(x,w)K=C and 1167818139%14567540 or 587814986%3636540 end else if K<9106061-(-722002)then C,m=not v,m+o V=m<=l V=C and V C=m>=l C=v and C V=C or V C=7709717-(-282188)K=V and C V=12689755-(-992887)K=K or V else m=z[E[-270685-(-270694)]]K={}D,l,V=K,m,347674211%3023254 m=960201-960200 o=m m=197002+-197002 v,K=o<m,904881+8902831 m=V-o end end end else if K>-400109+10749105 then if K>10628062-23401 then if K<10714902-(-57782)then D,K,b=nil,e[s(349343027%4785494)],{}else K=z[E[516139684%16129365]]D=z[E[339741+-339740]]b=K(D)K=-314402+4795315 end else if 1290888949%16629524>K then b,D,K={},nil,e[s(280593233%1281240)]elseif K<5537593056%23321139 then K=1032861+808903~=7211630-944402 z[V]=K K=-1008657+7759453 else m,v=l(V,m)K=m and 379651+4014065 or 592925+11967814 end end else if K>9398030-(-678826)then if 10254056-85607>K then K,L=358001+5035497,-1026447-(-1026448)M=g[L]c=M elseif K<4336387068%24441275 then b,D=s(208266-206229),s(-186927+188816)K=e[b]b=e[D]D=s(-130124-(-132013))e[D]=K D=s(-363895+365932)e[D]=b D=z[E[443951147%2480174]]V=D()K=13327759-(-451885)else W=s(953541-951536)S=e[W]W=s(-649671+651600)T=S[W]K,w=-210187+1393936,T end else if K<3738582650%25023968 then K=7164619-413823 elseif-927640+10973884>K then b=z[E[2264327857%13478142]]V=z[E[435074+-435072]]T,l,o=s(32171-29980),s(451580+-449721),11106229458648-(-163163)m=V(l,o)o=36798+15270318935048 K=b[m]D,l,x,b=i[-199105-(-199106)],s(19033261%200331),613570+8127446888966,257021479%22116294>8506761-570374 D[K]=b b=z[E[-789601-(-789602)]]V=z[E[-566048-(-566050)]]m=V(l,o)K=b[m]m=s(407431550%6571446)V=e[m]l=z[E[3094957633%16119571]]C=s(265447+-263784)o=z[E[184468-184466]]v=o(C,x)m=l[v]b=V[m]C,v,x,m,l,o=s(809958-808334),993078+-993078,-593147+18747852173077,1085133672%4306086,277092-277092,63906-63906 V=b(m,l,o,v)o=13572309570703-130015 D[K]=V b=z[E[10978251%43913]]l=s(2117997089%12242748)V=z[E[231017078%8556188]]m=V(l,o)K=b[m]m=s(94349646%2144267)V=e[m]l=z[E[-716788+716789]]o=z[E[28289410%126292]]v=o(C,x)C=s(907143-905108)m=l[v]v,U=1658769187%8594659,-514633+19541321121236 b=V[m]m,l,o=148578.5-148578,305572383%16082757,1584289715%11564158.5 V=b(m,l,o,v)D[K]=V w,x=s(605533-603918),891391+5443857510375 K=z[E[861241008%10632605]]l=z[E[1529044701%14424950]]o=z[E[359530978%1605049]]v=o(C,x)m=l[v]v=s(-428918+430816)o=e[v]C=z[E[200527-200526]]x=z[E[270846754%1538902]]J=x(w,U)x=2109089520%11915760 v=C[J]S,C,J=13377614758954-207829,580272-579952,-622464+622884 l=o[v]v,w=176033+-176033,512965219222-168616 o=l(v,C,x,J)v=z[E[906441+-906440]]J=s(142455192%12950308)C=z[E[1075302585%6007277]]x=C(J,w)l=v[x]x=s(-297977-(-299875))C=e[x]J=z[E[71361417%8920177]]w=z[E[616453490%5504049]]U=w(T,S)x=J[U]v=C[x]U,w,x,J=-258081+257871,-923385+923385.5,1316562636%5462915.5,-635313+635153 C=v(x,J,w,U)V={[m]=o;[l]=C}m=26874+-26873.75 b=K(D,V,m)K,D,b=e[s(320314039%6963302)],nil,{}else S,y=j+S,not d T=S<=W T=y and T y=W<=S y=d and y T=y or T y=1405974733%8719218 K=T and y T=986780673%9124234 K=K or T end end end end else if K<-790693+12432262 then if K>-773671+12068819 then if K<11199097-(-347169)then if K<10414516-(-994685)then D=i[1329411841%5539216]K=z[E[474390+-474389]]x,S=908395+13446310165514,9163588954654-727411 l=z[E[5415-5413]]C=s(-1029015+1030865)o=z[E[-968957+968960]]v=o(C,x)U=241900+10745588687519 m=l[v]v=s(891917+-890019)o=e[v]C=z[E[354905-354903]]x=z[E[2504323825%13760021]]w=s(278840+-276954)J=x(w,U)v=C[J]x=-896694-(-896694)l=o[v]C,v,J=683895+-683895,113478-113478,490284-490284 o=l(v,C,x,J)v=z[E[-652024+652026]]C=z[E[-395916+395919]]w,J=25945227477565-(-503028),s(753610+-751812)x=C(J,w)l=v[x]T,x=s(-542306-(-544326)),s(1809083610%12141488)C=e[x]J=z[E[91524071%4358289]]w=z[E[1642401487%11988332]]U=w(T,S)x=J[U]U=970310+-970310 v=C[x]J,w,x=2342690937%10998549,702728280%5129403.5,332629752.5%1599181.5 C=v(x,J,w,U)V={[m]=o,[l]=C}C,m=22857843286111-554699,.2 b=K(D,V,m)V=s(779830-777892)b=e[V]v=s(3881400962%15972835)m=z[E[903158-903156]]l=z[E[-423643-(-423646)]]o=l(v,C)V=m[o]K=b[V]V,o=.21,223992+19432905357409 b=K(V)b=z[E[-337510-(-337512)]]V=z[E[968805+-968802]]l=s(906308-904602)m=V(l,o)K=b[m]b=992313+519813>13681215-519672 D[K]=b b,D,K={},nil,e[s(442152+-440557)]elseif K<11640209-176350 then K=z[E[892686+-892679]]K=K and 3436836-604219 or 9789584-(-58830)else K,b=e[s(5014671%55085)],{V}end else if 11811254-189363>K then v,K=s(1437644423%9041775),8499559-(-446935)~=7404993-36317 z[E[321178+-321175]]=K C=9203187526729-7052 m=z[E[-289455-(-289456)]]l=z[E[632920250%8790559]]J,x=23058714384129-(-938736),s(546043-544053)o=l(v,C)V=m[o]b=D[V]K=894262+6812599 z[E[262658-262654]]=b m=z[E[159970793%1974948]]o=z[E[-546328+546329]]v=z[E[-1012514+1012516]]C=v(x,J)l=o[C]V=m[l]z[E[-971565-(-971571)]]=V else C,v=-782083+23191640660274,28672049630405-(-75618)b=z[E[302895+-302891]]o,K=s(92710-91020),s(2334483274%15460140)K=D[K]K=K(D,b)K=z[E[272719-272714]]V=z[E[-92428+92430]]m=z[E[325261056%6137001]]l=m(o,v)b=V[l]m=z[E[480818-480816]]l=z[E[166168+-166165]]v=s(553141+-551038)o=l(v,C)V=m[o]K[b]=V V=s(-970467-(-972405))b=e[V]m=z[E[150490+-150488]]C,v=-885210+1278157636653,s(1910036904%12993437)l=z[E[492177-492174]]o=l(v,C)V=m[o]K=b[V]o,V=s(499582+-497763),.7 b=K(V)K=z[E[146091+-146086]]V=z[E[925443920%14689586]]v=9058880739087-(-850283)m=z[E[-756002-(-756005)]]l=m(o,v)b=V[l]m=z[E[-696915+696917]]v=s(1803665127%15156835)l=z[E[-535691-(-535694)]]C=27382495932385-409107 o=l(v,C)V=m[o]K[b]=V K=-1038674+11431652 end end else if 936837+10217494>K then if-185921+11124209>K then K=b and 3052054642%26906340 or 21166+10371812 elseif 10122866-(-913786)>K then K=876706+2658112~=2390641631%26158962 K=K and 9044706-1025853 or 6060342-18781 else O,d=O+t,not N b=r>=O b=d and b d=r<=O d=N and d b=d or b d=-16732+11757213 K=b and d b=5351058-(-145428)K=K or b end else if 4158302377%26755460>K then K,b=e[s(796359-794187)],{}elseif K<-249602+11459179 then t=w==T O,K=t,1680411724%15196118 else K=e[s(492458412%3372989)]V=z[E[450814-450813]]D=#V m=z[E[215014-215013]]V=m[D]m=z[E[33762754%3751417]]l=nil m[D]=l b={V}end end end else if 11629110-(-517315)>K then if 11786163-17169>K then if 211995+11471692>K then b=z[E[651591964%12776313]]v=30901648502932-(-755617)V=z[E[-886983+886985]]m=z[E[-815519-(-815522)]]o=s(-192778-(-194437))l=m(o,v)D=V[l]K=b[D]D=K K,b=D and-326562-(-628512)or 11753789-847498,D elseif K<12459180-727710 then K=b and 5456412459%29896938 or 3128324804%21796392 else p=s(-974267-(-976053))d=R()F=1000926404%4468421 z[d]=O y=e[p]p=s(429181+-427280)b=y[p]p=463520701%5150230 y=b(p,F)c,I=854298+-854296,-256869+266869 p=R()Y,q=820314+-820314,1211758935%6585645 z[p]=y L=s(1264427526%16210583)b=z[C]F=3326201585%13576333 y=b(F,q)q=340879873%7410432 F=R()z[F]=y b=z[C]X=z[p]y=b(q,X)q=R()z[q]=y y=z[C]g=-918161-(-918162)X=y(g,c)y=24408449%148832 b=X==y c=s(563386-561724)y=R()z[y]=b b,X=s(2943551952%12420042),s(2436102422%12688025)M=e[L]B=z[C]u={B(Y,I)}L=M(Q(u))M,b=s(696503+-694841),W[b]H=L..M g=c..H c=s(656238-654399)b=b(W,X,g)X=R()z[X]=b g=e[c]H=k(12092540-(-770571),{C;d,U;m,V,j,y;X,p,q;F;J})c={g(H)}b={Q(c)}g=b b=z[y]K=b and 342830003%10878871 or 605796+11191712 end else if K<1520645515%14647492 then M=z[V]c,H=M,K K=M and 10331685-252560 or 4741706-(-651792)else o,v,K=nil,nil,15674666-(-1036139)>370877092%6182623 D=K K=12742377-181638 end end else if K<894323+11619716 then if 12370618-70240>K then o=z[E[-657475+657476]]U=s(656134-653986)v=z[E[777873-777871]]D,T,J,x=i[915099+-915098],14512941361203-200141,676096+23377003141509,s(-887709-(-889696))C=v(x,J)l=o[C]C=s(-480840-(-482516))m=D[l]v=e[C]x=z[E[773466+-773465]]J=z[E[456087-456085]]w=J(U,T)C=x[w]U=-557529+21532157995267 o=v[C]C=z[E[-986794-(-986795)]]w=s(2937681148%14912079)x=z[E[-281134-(-281136)]]J=x(w,U)v=C[J]l=o[v]V=m==l b,K=V,V and 4824124269%19036473 or 12396294-(-130167)elseif 11862879-(-596968)>K then K=z[E[-518733+518737]]o=z[E[-1035395+1035397]]v=z[E[346680571%6666934]]J,x=-78572+7049272016830,s(320866+-318836)C=v(x,J)l=o[C]x=s(-859531-(-861374))m=D[l]o=z[E[510710-510708]]J=14115535691033-82796 v=z[E[-681868-(-681871)]]C=v(x,J)l=o[C]V=m[l]b=K(V)K=11689222-1007901 else v,K=C,x K=931046206%4725002 end else if 2486514982%15085291>K then K,x=384475+7512125,s(11454763%3817574)o=z[E[649930+-649929]]v=z[E[-671573+671575]]J,T,U=21001516805154-34287,-1030399+22715083825744,s(-870276+872322)C=v(x,J)l=o[C]C=s(824515676%16490280)m=D[l]v=e[C]x=z[E[-936333+936334]]J=z[E[-351118+351120]]w=J(U,T)U=18948772103099-(-761532)C=x[w]o=v[C]C=z[E[871434-871433]]w=s(658104855%8226284)x=z[E[-275047-(-275049)]]J=x(w,U)v=C[J]l=o[v]V=m==l b=V else K,N,y=5159988624%20920339,s(421798-419746),s(1092951379%12708715)r=e[N]d=e[y]N=r(d)r=s(509038+-507001)e[r]=N end end end end end else if-914970+15270203>K then if K>13562064-85288 then if 13242611-(-488532)>K then if 1385386599%13582224>K then if K<2482197757%19286790 then V=z[E[929354054%7680612]]K=3258150619%16908480 m=z[E[725581-725578]]D=V==m b=D elseif K<1726548110%17479683 then K,m,V=1005487+14816795,nil,nil else D=R()z[D]=i[-222442-(-222443)]C=6861+17526881256724 b=z[D]m=z[E[828686+-828685]]v=s(-115585-(-117707))l=z[E[1413270146%7137728]]o=l(v,C)V=m[o]K=b[V]b,v=s(-6884+9048),s(1593059700%9713769)b=K[b]V=h(14419543-(-327841),{E[526549+-526546],D;E[430895207%2013529],E[-397809-(-397811)]})C=683845+17325548269630 b=b(K,V)b=z[D]m=z[E[586537-586536]]l=z[E[41922+-41920]]o=l(v,C)V=m[o]K=b[V]b=s(206153758%6247018)V=f(-92480+14673386,{E[-367902-(-367905)],D,E[-221391-(-221392)];E[-652761+652763]})b=K[b]D=n(D)b=b(K,V)b,K={},e[s(280203937%14010106)]end else if 249631+13384305>K then K=3610934354%21788217 else K=z[E[367968-367958]]V=z[E[348604+-348593]]D[K]=V K=z[E[1149186924%11970697]]V={K(D)}K,b=e[s(393030+-390865)],{Q(V)}end end else if K<13239737-(-963208)then if 12814398-(-969535)>K then K=3051599975%23024541~=4880495-(-890187)K=K and 853859+9403914 or 9756034-846783 elseif K<50288+13933228 then D=i[94084701%811075]V=z[E[541008+-541007]]K,b=V and 1534766630%6396616 or 9043145-986837,V else u=1682682982%15297118 B=g[u]u=z[X]L=B==u H,K=L,13952906-(-348181)end else if 5104291768%25969529>K then J=n(J)S=nil C=n(C)T,S,v=nil,403037-402781,nil l=n(l)T=s(171482126%755420)m=n(m)o=n(o)V=n(V)V,w,x=nil,nil,nil o=R()W=nil j=n(j)m=nil U=n(U)U=s(701836501%15950784)l=R()z[l]=V V=R()C=s(-102942-(-104728))z[V]=m m=502277+-502275 z[o]=m v=e[C]C,W=s(989432465%13018823),S m=v[C]w=s(126684-124539)v=R()z[v]=m m=1040317-1040317 C=R()x=R()z[C]=m m={}z[x]=m J=e[w]w=s(2443019468%14806167)m=J[w]w=e[U]U=s(93963-92235)J=w[U]K=2967797399%11690604 U=e[T]S=1459207457%13028638 j,T=S,s(184265-182364)w=U[T]S,U,T=2615573475%11036175,{},-906097+906098 d=S>j S=T-j else K,b=M,H K=-945840+13683244 end end end else if K<645169343%22579032 then if-825529+13537217>K then if 13333054-767687>K then V=z[E[1033185-1033181]]l=z[E[195268-195266]]x=11785768857545-252505 o=z[E[29866-29863]]C=s(1385235605%5869635)v=o(C,x)m=l[v]K,l,b=e[s(210235669%4570303)],not D,{}V[m]=l D=nil elseif 362781+12265203>K then U=s(-961145+962956)v=z[E[3791868240%16415014]]x=z[E[394443366%4196206]]K=l l=nil b=m or l l,m=K,b J=z[E[100181226%11131247]]T=6553608426723-(-898824)w=J(U,T)C=x[w]o=v[C]K,b=o and 3253549290%20284974 or 14032770-(-405481),o else m=z[E[-152046-(-152048)]]l=z[E[46572-46569]]x,O,v,C=s(-414936+417062),s(-516874+519061),s(207624921%6697516),105824+28135031625165 o=l(v,C)w=345669+35019003296109 V=m[o]J=102981+28644959986133 b=D[V]m=z[E[-140424+140425]]o=z[E[1405284330%5904556]]v=z[E[468321-468318]]C=v(x,J)l=o[C]W,C=32927355236652-(-674488),s(855280-853637)V=m[l]K=b-V b=z[E[-234297+234298]]x,V=-710624+20917013904876,K l=z[E[-331596-(-331598)]]o=z[E[120934-120931]]v=o(C,x)m=l[v]K=b[m]J=s(-473999-(-475890))m=z[E[-658072+658074]]r=s(285256-283616)l=z[E[337034+-337031]]C,v=23123200770197-(-551290),s(-189262+190869)o=l(v,C)b=m[o]S,o=s(2283721313%12617235),s(812591080%13772698)l=e[o]v=z[E[-989829+989831]]C=z[E[19848913%9924455]]x=C(J,w)o=v[x]m=l[o]x=z[E[59972941%293985]]w=z[E[87129938%14521656]]U=z[E[7545659%7545656]]T=U(S,W)J=w[T]C=x[J]J=z[E[220388+-220386]]S=11418785848615-(-128926)w=z[E[1923036489%12171117]]T=s(2170392129%10639168)U=w(T,S)t=16556506283509-24536 x=J[U]v=C[x]j,T,U=20729107610184-(-404332),-925788+30762027538512,s(362509-360366)x=z[E[-852429+852431]]J=z[E[125074-125071]]w=J(U,T)C=x[w]o=v[C]w=z[E[79275-79274]]T=z[E[1084321138%9347596]]S=z[E[3698049423%15803630]]W=S(O,j)U=T[W]O,W=64334+22439571008899,s(854064576%10810918)J=w[U]U=z[E[-403182+403184]]T=z[E[348375835%10246348]]S=T(W,O)w=U[S]W=26716324056595-302459 x=J[w]w=z[E[804299+-804297]]U=z[E[134810666%610003]]O,S=s(-1023029+1024929),s(-319296+321019)T=U(S,W)J=w[T]C=x[J]W=27282717029076-(-327372)w=z[E[-786553+786555]]S=s(-647668+649274)U=z[E[481546692%4767789]]T=U(S,W)J=w[T]x=V[J]v=C+x w=z[E[726185+-726184]]T=z[E[383403479%4619319]]S=z[E[-14555+14558]]j=-57602+27968414618593 W=S(O,j)U=T[W]J=w[U]W=s(2055685117%9177157)U=z[E[-241036+241038]]O=-646254+9245910920511 T=z[E[-248284-(-248287)]]S=T(W,O)w=U[S]S,W=s(-999911-(-1001808)),440117+21264687148921 x=J[w]w=z[E[23988584%444233]]U=z[E[437272+-437269]]T=U(S,W)J=w[T]C=x[J]T=z[E[54735175%2105199]]W=z[E[520369+-520367]]O=z[E[-721897+721900]]j=O(r,t)r=5874192898853-(-143242)S=W[j]j=s(-68122+70237)U=T[S]S=z[E[-955755-(-955757)]]W=z[E[798998973%4842418]]O=W(j,r)j=27988830439920-(-141561)T=S[O]O=s(2721028568%12957270)w=U[T]T=z[E[1361650115%12050001]]S=z[E[-192684-(-192687)]]W=S(O,j)U=T[W]J=w[U]O=s(1310005268%11592949)T=z[E[3121764089%12638721]]S=z[E[763337967%3874812]]j=30437489853014-(-357639)W=S(O,j)U=T[W]w=V[U]V=nil x=J+w l=m(o,v,C,x)K[b]=l K=17398049-633563 end else if 11880296-(-917834)>K then z[V]=b K=c K=45493857%4553379 elseif 3186598322%15789738>K then C,b=m,234226647%2891687 K=C==b K=K and 789834+8512263 or 10085172-676769 else l,o=997194+-997193,167829131%1434437 V=z[E[2007837553%9168208]]m=V(l,o)V=808126201%5772330 D=m==V b,K=D,D and 832525+10889934 or-977285+14454929 end end else if 4188109661%23193942>K then if 811873925%19970101>K then V=s(-177364+179302)D=e[V]v,C=s(921294-919357),858512+3860874931573 m=z[E[-489590-(-489593)]]l=z[E[694641-694637]]o=l(v,C)V=m[o]K=D[V]V,b=.16,{}D=K(V)D=s(442377260%4337016)K=z[E[964137-964135]]D=K[D]D=D(K)K=z[E[-716742+716747]]D=K()K=e[s(-1029431+1031302)]elseif K<-121306+13259177 then C,m=not v,m+o b=m<=l b=C and b C=l<=m C=v and C b=C or b C=11997069-(-861788)K=b and C b=15231729-52014 K=K or b else D,V=i[151839-151838],i[-162838+162840]K=z[E[553082741%15802364]]m=K K=m[V]K=K and 15255993-706835 or 1279858067%29409000 end else if 13333127-(-12050)>K then K,b=e[s(359656+-357592)],{}else K,b=331331+2826948>1779206656%8613536,s(-544807-(-546974))D=K K=e[b]l=z[E[-423991-(-423992)]]v=s(242746+-240806)v=l[v]o={v(l)}l={K(Q(o))}b,V,m,K=l[578518-578517],l[-805749+805751],l[735433-735430],999555+9528447 l=b end end end end else if 5825477489%28480733>K then if K<668796+14183200 then if 15319991-754959>K then if 2025291239%20730592>K then m=R()D=R()z[D]=i[-890297+890298]o=R()V=R()z[V]=i[-386971-(-386973)]l=R()z[m]=i[486179603%2293300]z[l]=i[-317573+317577]z[o]=i[1039554-1039549]U=27924317035984-(-513275)b=z[D]C=z[E[360249+-360248]]x=z[E[729855-729853]]w=s(467260+-465626)J=x(w,U)v=C[J]K=b[v]v=f(1620875471%15868996,{E[98939-98936];D;E[-602766-(-602767)];E[1040436+-1040434],m;o})b,w=s(201464836%8394278),s(388083-386439)b,U=K[b],213994+31839480575488 b=b(K,v)b=z[D]C=z[E[-191869-(-191870)]]o=n(o)x=z[E[636975+-636973]]J=x(w,U)v=C[J]K=b[v]v=a(-179845+9174355,{E[787813+-787810],D;E[219275+-219274];E[-674136+674138];V;l})V=n(V)b=s(509617+-507453)l=n(l)b=K[b]m=n(m)D=n(D)b=b(K,v)K,b=e[s(486339+-484472)],{}elseif 1802620632%15965419>K then K=l K=b and 2299525119%13242752 or 12910604-(-589027)else K,b=e[s(128310531%1115730)],{V}end else if K<1316364209%19142648 then x=29489205583745-1042910 K=z[E[1514739997%11475303]]w=s(377272786%10479749)D=z[E[2317253045%9777439]]l=z[E[1032495-1032492]]o=z[E[51307679%2052307]]C=s(734971550%9187117)v=o(C,x)m=l[v]O,v,U=6270118376217-(-956494),s(1168167946%7393456),25482350945281-(-494169)o=e[v]C=z[E[514489825%2125991]]x=z[E[-746106+746110]]J=x(w,U)v=C[J]W=s(208683+-206780)l=o[v]J=z[E[982103-982101]]U=z[E[-407458+407461]]T=z[E[-83601-(-83605)]]S=T(W,O)w=U[S]x=J[w]W,S=7809718662568-436084,s(546589088%3549266)w=z[E[601707+-601704]]U=z[E[52628434%711195]]T=U(S,W)S=-632863+17540306700294 J=w[T]T,j=s(849486+-847387),s(112136-110062)C=x[J]J=z[E[518879+-518876]]w=z[E[-970623-(-970627)]]U=w(T,S)x=J[U]v=C[x]U=z[E[749696-749694]]S=z[E[-641112+641115]]W=z[E[506802605%16348471]]r=-463766+4266414627672 O=W(j,r)T=S[O]w=U[T]O=s(307869-305681)T=z[E[196821-196818]]j=-664191+4863833860951 S=z[E[572782564%9546376]]W=S(O,j)U=T[W]O=12681945810714-(-905207)J=w[U]U=z[E[-296520+296523]]W,j,r=s(3928357295%16716405),s(-731051+733106),11428131228237-882052 T=z[E[-691473-(-691477)]]N=21888038729131-855515 S=T(W,O)w=U[S]x=J[w]J=-533490+533494 C=x+J U=z[E[1014193406%4024577]]t=s(639580-637580)S=z[E[-664505+664508]]W=z[E[467654289%12639305]]O=W(j,r)T=S[O]w=U[T]T=z[E[-178840+178843]]S=z[E[615183286%4882407]]O,j=s(1194029608%13121186),188120+32788150574284 W=S(O,j)U=T[W]J=w[U]U=z[E[-821244+821247]]W=s(740515-738937)T=z[E[-225213+225217]]O=948840+31964461170620 S=T(W,O)w=U[S]x=J[w]S=z[E[946326-94632
+--[[ 
+    XXXXREDF7 Ring Panel
+    Original: Super Ring Parts V5 by lukas
+    Redesigned by XXXXXREDF7
+    Theme: #000080 Navy | Floating | Animated | Persian UI
+    2-Step Password Protected
+]]
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local SoundService = game:GetService("SoundService")
+local StarterGui = game:GetService("StarterGui")
+local TextChatService = game:GetService("TextChatService")
+local Workspace = game:GetService("Workspace")
+
+local LocalPlayer = Players.LocalPlayer
+
+-- ==========================================
+-- 🎨 پالت رنگ‌ها (مشترک برای لاگین و پنل)
+-- ==========================================
+local NAVY = Color3.fromRGB(0, 0, 128)         -- #000080
+local NAVY_DARK = Color3.fromRGB(0, 0, 80)     
+local BTN_DARK = Color3.fromRGB(0, 0, 60)      
+local ACCENT = Color3.fromRGB(50, 80, 200)     
+local TEXT_COLOR = Color3.fromRGB(240, 245, 255)
+local DANGER = Color3.fromRGB(180, 40, 40)
+local SUCCESS = Color3.fromRGB(40, 160, 80)
+
+-- ==========================================
+-- 📢 تابع ارسال پیام در چت
+-- ==========================================
+local function SendChatMessage(message)
+    pcall(function()
+        if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
+            local textChannel = TextChatService.TextChannels.RBXGeneral
+            textChannel:SendAsync(message)
+        else
+            game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+        end
+    end)
+end
+
+-- ==========================================
+-- 🔐 مرحله ۱: صفحه لاگین دو مرحله‌ای
+-- ==========================================
+SendChatMessage("پنل XXXXXREDF7 توسط من درحال اجرا هست!")
+
+local LoginGui = Instance.new("ScreenGui")
+LoginGui.Name = "XXXXXREDF7_Login"
+LoginGui.ResetOnSpawn = false
+LoginGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+
+local LoginFrame = Instance.new("Frame")
+LoginFrame.Size = UDim2.new(0, 260, 0, 200)
+LoginFrame.Position = UDim2.new(0.5, -130, 0.5, -100)
+LoginFrame.BackgroundColor3 = NAVY
+LoginFrame.BorderSizePixel = 0
+LoginFrame.Parent = LoginGui
+
+local loginCorner = Instance.new("UICorner", LoginFrame)
+loginCorner.CornerRadius = UDim.new(0, 15)
+
+local loginStroke = Instance.new("UIStroke", LoginFrame)
+loginStroke.Color = ACCENT
+loginStroke.Thickness = 2
+
+-- هدر لاگین
+local LoginTitleBar = Instance.new("Frame")
+LoginTitleBar.Size = UDim2.new(1, 0, 0, 45)
+LoginTitleBar.BackgroundColor3 = NAVY_DARK
+LoginTitleBar.BorderSizePixel = 0
+LoginTitleBar.Parent = LoginFrame
+
+local lTitleCorner = Instance.new("UICorner", LoginTitleBar)
+lTitleCorner.CornerRadius = UDim.new(0, 15)
+
+local lTitleFix = Instance.new("Frame", LoginTitleBar)
+lTitleFix.Size = UDim2.new(1, 0, 0, 15)
+lTitleFix.Position = UDim2.new(0, 0, 1, -15)
+lTitleFix.BackgroundColor3 = NAVY_DARK
+lTitleFix.BorderSizePixel = 0
+
+local LoginTitle = Instance.new("TextLabel")
+LoginTitle.Size = UDim2.new(1, 0, 1, 0)
+LoginTitle.BackgroundTransparency = 1
+LoginTitle.Text = "ورود به پنل XXXXXREDF7"
+LoginTitle.TextColor3 = TEXT_COLOR
+LoginTitle.Font = Enum.Font.GothamBold
+LoginTitle.TextSize = 15
+LoginTitle.Parent = LoginTitleBar
+
+-- کادر رمز اول
+local Pass1 = Instance.new("TextBox")
+Pass1.Size = UDim2.new(0.8, 0, 0, 35)
+Pass1.Position = UDim2.new(0.1, 0, 0.3, 0)
+Pass1.BackgroundColor3 = BTN_DARK
+Pass1.PlaceholderText = "رمز مرحله اول..."
+Pass1.Text = ""
+Pass1.TextColor3 = TEXT_COLOR
+Pass1.PlaceholderColor3 = Color3.fromRGB(150, 150, 160)
+Pass1.Font = Enum.Font.Gotham
+Pass1.TextSize = 14
+Pass1.ClearTextOnFocus = false
+Pass1.Parent = LoginFrame
+
+local p1Corner = Instance.new("UICorner", Pass1)
+p1Corner.CornerRadius = UDim.new(0, 8)
+
+-- کادر رمز دوم
+local Pass2 = Instance.new("TextBox")
+Pass2.Size = UDim2.new(0.8, 0, 0, 35)
+Pass2.Position = UDim2.new(0.1, 0, 0.5, 0)
+Pass2.BackgroundColor3 = BTN_DARK
+Pass2.PlaceholderText = "رمز مرحله دوم..."
+Pass2.Text = ""
+Pass2.TextColor3 = TEXT_COLOR
+Pass2.PlaceholderColor3 = Color3.fromRGB(150, 150, 160)
+Pass2.Font = Enum.Font.Gotham
+Pass2.TextSize = 14
+Pass2.ClearTextOnFocus = false
+Pass2.Parent = LoginFrame
+
+local p2Corner = Instance.new("UICorner", Pass2)
+p2Corner.CornerRadius = UDim.new(0, 8)
+
+-- دکمه ورود
+local LoginBtn = Instance.new("TextButton")
+LoginBtn.Size = UDim2.new(0.8, 0, 0, 35)
+LoginBtn.Position = UDim2.new(0.1, 0, 0.72, 0)
+LoginBtn.BackgroundColor3 = SUCCESS
+LoginBtn.Text = "تایید و ورود"
+LoginBtn.TextColor3 = TEXT_COLOR
+LoginBtn.Font = Enum.Font.GothamBold
+LoginBtn.TextSize = 14
+LoginBtn.AutoButtonColor = false
+LoginBtn.Parent = LoginFrame
+
+local lBtnCorner = Instance.new("UICorner", LoginBtn)
+lBtnCorner.CornerRadius = UDim.new(0, 8)
+
+-- خطای لاگین
+local ErrorLbl = Instance.new("TextLabel")
+ErrorLbl.Size = UDim2.new(1, 0, 0, 20)
+ErrorLbl.Position = UDim2.new(0, 0, 0.9, 0)
+ErrorLbl.BackgroundTransparency = 1
+ErrorLbl.Text = ""
+ErrorLbl.TextColor3 = DANGER
+ErrorLbl.Font = Enum.Font.GothamBold
+ErrorLbl.TextSize = 12
+ErrorLbl.Parent = LoginFrame
+
+-- درگ کردن صفحه لاگین
+local loginDrag = nil
+LoginTitleBar.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        loginDrag = {startPos = LoginFrame.Position, startInput = input.Position}
+    end
+end)
+UserInputService.InputChanged:Connect(function(input)
+    if loginDrag and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+        local delta = input.Position - loginDrag.startInput
+        LoginFrame.Position = UDim2.new(
+            loginDrag.startPos.X.Scale, loginDrag.startPos.X.Offset + delta.X,
+            loginDrag.startPos.Y.Scale, loginDrag.startPos.Y.Offset + delta.Y
+        )
+    end
+end)
+UserInputService.InputEnded:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        loginDrag = nil
+    end
+end)
+
+-- پیام چت برای درخواست رمز
+SendChatMessage("رمز پنل XXXXXREDF7 رو وارد کنید")
+
+-- منطق تایید رمز
+LoginBtn.MouseButton1Click:Connect(function()
+    if Pass1.Text == "1212" and Pass2.Text == "7890" then
+        -- رمز صحیح
+        SendChatMessage("پنل باز شد✅")
+        LoginGui:Destroy()
+        
+        -- اجرای ادامه اسکریپت (پنل اصلی)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/sanammoradii1399-bot/MyScripts/refs/heads/main/myscript.lua", true))() 
+        -- ⚠️ نکته: اگر این کد در همان فایلی است که آپلود کردی، خط بالا را حذف کن و کدهای زیر (از بخش "تنظیمات و منطق شبکه") را مستقیماً در همین جا قرار بده.
+        
+    else
+        -- رمز اشتباه
+        ErrorLbl.Text = "رمز اشتباه است! دوباره تلاش کنید."
+        Pass1.Text = ""
+        Pass2.Text = ""
+        TweenService:Create(LoginFrame, TweenInfo.new(0.1), {Position = UDim2.new(0.5, -125, 0.5, -100)}):Play()
+        task.wait(0.1)
+        TweenService:Create(LoginFrame, TweenInfo.new(0.1), {Position = UDim2.new(0.5, -135, 0.5, -100)}):Play()
+        task.wait(0.1)
+        TweenService:Create(LoginFrame, TweenInfo.new(0.1), {Position = UDim2.new(0.5, -130, 0.5, -100)}):Play()
+    end
+end)
+
+-- افکت هاور برای دکمه ورود
+LoginBtn.MouseEnter:Connect(function()
+    TweenService:Create(LoginBtn, TweenInfo.new(0.15), {BackgroundColor3 = Color3.fromRGB(60, 180, 100)}):Play()
+end)
+LoginBtn.MouseLeave:Connect(function()
+    TweenService:Create(LoginBtn, TweenInfo.new(0.15), {BackgroundColor3 = SUCCESS}):Play()
+end)
+
+-- ==========================================
+-- ⚙️ تنظیمات و منطق شبکه (Universal Part Claim)
+-- این بخش دقیقاً همان کدهای قبلی شماست
+-- ==========================================
+--[[ 
+    👇 توجه: 
+    از آنجایی که کد اصلی شما برای عملکرد رینگ به فیزیک وابسته است، 
+    بقیه کدهای مربوط به فیزیک و رینگ (از خط "local Folder = Instance.new..." تا انتهای کد) 
+    را باید دقیقاً در همین جا (زیر این خط) قرار بدهید تا بعد از تایید رمز اجرا شوند.
+]]
